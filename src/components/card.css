@@ -1,0 +1,12 @@
+.card{
+    width: 268px;
+    padding: 15px;
+    background-color: rgb(197, 209, 209);
+    text-align: center;
+}
+.card img{
+    width: 100%;
+}
+p{
+    color: rgb(71, 68, 68);
+}
